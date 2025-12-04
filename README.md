@@ -208,18 +208,7 @@ This framework is an **independent technical resource** created to assist EMR de
 
 ## 👨‍💻 Author
 
-**Dr. Ahmad Hidayat, MSc, MBA**  
-- Chairman, Technical Working Group for SATUSEHAT Platform
-- Expert Panel Member, Regulatory Sandbox for Digital Health Innovation (Ministry of Health)
-- Consultant, Indonesian Clinical Research Center (INA-CRC)
-- Digital Health Transformation Specialist
-
-### Professional Context
-This framework synthesizes insights from:
-- 30+ years of healthcare informatics experience
-- Technical leadership of Indonesia's national health information exchange
-- Consultation with 100+ healthcare facilities on digital transformation
-- Academic research on precision medicine and health data governance
+**Ahmad Hidayat** - Technical Working Group (TWG) SATUSEHAT
 
 ## 📧 Contact & Support
 

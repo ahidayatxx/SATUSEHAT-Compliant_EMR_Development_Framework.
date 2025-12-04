@@ -1,8 +1,8 @@
 # SATUSEHAT-Compliant EMR Development Framework
 ## A Strategic Blueprint for Robust Yet Efficient Implementation
 
-**Author**: Dr. Ahmad Hidayat, MSc, MBA  
-**Context**: Technical Working Group Chairman, SATUSEHAT Platform  
+**Author**: Ahmad Hidayat
+**Context**: Technical Working Group (TWG) SATUSEHAT  
 **Date**: December 2, 2025
 
 ---
